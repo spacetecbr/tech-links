@@ -12,4 +12,12 @@ http://php.net
 http://multirbl.valli.org
 
 ### DESIGN
-http://www.howdesign.com/
+http://www.howdesign.com
+
+### WEB DESIGN
+http://www.webdeveloperjuice.com
+
+### SECURITY
+http://breakthesecurity.cysecurity.org
+
+http://www.techworm.net
