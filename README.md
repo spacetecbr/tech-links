@@ -1,26 +1,28 @@
 # Tech Links
+#### CSS
+- http://unminify.com
 
-### CSS
-http://unminify.com
+#### JS / JQUERY
 
-### JS / JQUERY
-http://jsbeautifier.org
+ - http://jsbeautifier.org 
+ - http://jscompress.com
 
-http://jscompress.com
+#### PHP
+- http://php.net
 
-### PHP
-http://php.net
+#### BLACKLIST CHECK
+- http://multirbl.valli.org
 
-### BLACKLIST CHECK
-http://multirbl.valli.org
+#### DESIGN
+- http://www.howdesign.com
 
-### DESIGN
-http://www.howdesign.com
+#### WEB DESIGN
+- http://www.webdeveloperjuice.com
 
-### WEB DESIGN
-http://www.webdeveloperjuice.com
+#### SECURITY
 
-### SECURITY
-http://breakthesecurity.cysecurity.org
+ - http://breakthesecurity.cysecurity.org 
+ - http://www.techworm.net
+ - https://codingsec.net
 
-http://www.techworm.net
+
