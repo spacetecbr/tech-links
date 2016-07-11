@@ -1,11 +1,13 @@
 # Tech Links
 #### CSS
 - http://unminify.com
+- https://cssminifier.com
 
 #### JS / JQUERY
 
- - http://jsbeautifier.org 
- - http://jscompress.com
+- http://jsbeautifier.org 
+- http://jscompress.com
+- https://javascript-minifier.com
 
 #### PHP
 - http://php.net
