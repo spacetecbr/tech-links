@@ -29,4 +29,11 @@
  - http://www.techworm.net
  - https://codingsec.net
 
+### Fiddles
+
+- https://jsfiddle.net
+- http://phpfiddle.org
+- http://codepen.io
+- http://cssdeck.com
+
 
