@@ -4,7 +4,6 @@
 - https://cssminifier.com
 
 #### JS / JQUERY
-
 - http://jsbeautifier.org 
 - http://jscompress.com
 - https://javascript-minifier.com
@@ -14,6 +13,7 @@
 
 #### BLACKLIST CHECK
 - http://multirbl.valli.org
+- http://mxtoolbox.com/blacklists.aspx
 
 #### DESIGN
 - http://www.howdesign.com
@@ -24,16 +24,12 @@
 - https://css-tricks.com
 
 #### SECURITY
-
  - http://breakthesecurity.cysecurity.org 
  - http://www.techworm.net
  - https://codingsec.net
 
 ### Fiddles
-
 - https://jsfiddle.net
 - http://phpfiddle.org
 - http://codepen.io
 - http://cssdeck.com
-
-
