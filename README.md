@@ -18,6 +18,8 @@
 
 #### WEB DESIGN
 - http://www.webdeveloperjuice.com
+- http://tableless.com.br
+- https://css-tricks.com
 
 #### SECURITY
 
