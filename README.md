@@ -11,6 +11,10 @@
 #### PHP
 - http://php.net
 
+### PYTHON
+- https://docs.python.org/3
+- https://docs.python.org/2.7
+
 #### BLACKLIST CHECK
 - http://multirbl.valli.org
 - http://mxtoolbox.com/blacklists.aspx
@@ -36,3 +40,7 @@
 
 ### SEO
 - http://www.seocentro.com/tools/seo/seo-analyzer.html
+
+### Others
+- http://loremipsum.net
+
