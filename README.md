@@ -21,6 +21,7 @@
 
 #### DESIGN
 - http://www.howdesign.com
+- http://blog.estudiodurer.com.br
 
 #### WEB DESIGN
 - http://www.webdeveloperjuice.com
