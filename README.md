@@ -28,6 +28,9 @@
 - http://tableless.com.br
 - https://css-tricks.com
 
+#### WORDPRESS
+- http://www.escolawp.com
+
 #### SECURITY
  - http://breakthesecurity.cysecurity.org 
  - http://www.techworm.net
